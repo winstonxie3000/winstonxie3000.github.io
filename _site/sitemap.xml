@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/2020/05/09/jianzaoguocheng/</loc>
+<loc>http://gufengju.com//2020/05/09/jianzaoguocheng/</loc>
 <lastmod>2020-05-09T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/2020/05/09/shuhua/</loc>
+<loc>http://gufengju.com//2020/05/09/jinian/</loc>
 <lastmod>2020-05-09T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/about/</loc>
+<loc>http://gufengju.com//2020/05/09/shuhua/</loc>
+<lastmod>2020-05-09T00:00:00+08:00</lastmod>
 </url>
 <url>
-<loc>/</loc>
+<loc>http://gufengju.com//about/</loc>
 </url>
 <url>
-<loc>/styleguide.html</loc>
+<loc>http://gufengju.com//</loc>
+</url>
+<url>
+<loc>http://gufengju.com//styleguide.html</loc>
 </url>
 </urlset>
